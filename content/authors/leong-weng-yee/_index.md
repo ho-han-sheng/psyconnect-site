@@ -9,5 +9,5 @@ education:
       year: 2024
 superuser: false
 user_groups:
-  - EXCO Member
+  - EXCO Members
 ---
