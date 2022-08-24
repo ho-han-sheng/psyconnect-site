@@ -9,5 +9,5 @@ education:
       year: 2023
 superuser: false
 user_groups:
-  - EXCO Member
+  - General Secretary
 ---
