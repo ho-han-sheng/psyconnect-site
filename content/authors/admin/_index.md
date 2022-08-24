@@ -1,6 +1,6 @@
 ---
 title: Ho Han Sheng
-role: EXCO Member
+role: ""
 bio: ""
 interests: []
 social: []
@@ -12,7 +12,8 @@ education:
       year: 2024
 email: ""
 superuser: true
-user_groups: []
+user_groups:
+  - EXCO Members
 highlight_name: false
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
