@@ -1,6 +1,6 @@
 ---
 title: Darren Leong
-avatar_filename: avatar
+avatar_filename: darren.jpg
 social: []
 education:
   courses:
