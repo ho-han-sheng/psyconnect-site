@@ -8,13 +8,13 @@ main:
     url: about
     weight: 10
   - name: News
-    url: news
+    url: post
     weight: 20
   - name: People
     url: people
     weight: 30
   - name: Events
-    url: events
+    url: event
     weight: 40
   - name: Resources
     url: resources
