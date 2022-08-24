@@ -1,6 +1,6 @@
 ---
 title: Leong Wei Ren Darren
-avatar_filename: darren.jpg
+avatar_filename: avatar.jpg
 social: []
 education:
   courses:
