@@ -17,7 +17,7 @@ content:
 
   email: susspsyconnect@gmail.com
   address:
-    street: 463 Clementi Rd, Singapore 599494
+    street: 463 Clementi Rd
     postcode: '599494'
     country: Singapore
     country_code: SG
