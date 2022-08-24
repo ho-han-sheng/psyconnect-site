@@ -1,6 +1,6 @@
 ---
 title: Ho Han Sheng
-role: Position
+role: EXCO Member
 bio: ""
 interests: []
 social: []
