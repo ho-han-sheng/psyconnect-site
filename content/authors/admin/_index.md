@@ -1,6 +1,7 @@
 ---
 title: Ho Han Sheng
 role: ""
+avatar_filename: avatar.jpg
 bio: ""
 interests: []
 social: []
