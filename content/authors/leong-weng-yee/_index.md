@@ -1,6 +1,6 @@
 ---
 title: Leong Weng Yee
-avatar_filename: avatar
+avatar_filename: avatar.jpg
 social: []
 education:
   courses:
