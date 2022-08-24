@@ -1,6 +1,6 @@
 ---
 title: Goh Qin En, Serene
-avatar_filename: avatar
+avatar_filename: avatar.jpg
 social: []
 education:
   courses:
