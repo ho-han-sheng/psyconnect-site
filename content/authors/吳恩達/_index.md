@@ -3,7 +3,7 @@ organizations: []
 superuser: false
 authors:
   - 吳恩達
-title: Bryan Chan
+title: Chan Yu Xiu Bryan
 role: ""
 bio: ""
 interests:
