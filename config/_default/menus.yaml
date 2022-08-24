@@ -14,7 +14,7 @@ main:
     url: people
     weight: 30
   - name: Events
-    url: events
+    url: event
     weight: 40
   - name: Resources
     url: resources
