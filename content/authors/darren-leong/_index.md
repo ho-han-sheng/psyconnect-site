@@ -1,5 +1,5 @@
 ---
-title: Darren Leong
+title: Leong Wei Ren Darren
 avatar_filename: darren.jpg
 social: []
 education:
