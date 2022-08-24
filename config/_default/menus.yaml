@@ -5,19 +5,19 @@
 
 main:
   - name: About Us
-    url: tour
+    url: about
     weight: 10
   - name: News
-    url: post
+    url: news
     weight: 20
   - name: People
     url: people
     weight: 30
   - name: Events
-    url: event
+    url: events
     weight: 40
-  - name: Publications
-    url: publication
+  - name: Resources
+    url: resources
     weight: 50
   - name: Contact Us
     url: contact
