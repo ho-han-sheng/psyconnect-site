@@ -32,8 +32,8 @@ content:
         brightness: 0.7
         media: zoom_stock
       link:
-        icon: presentation-screen
-        icon_pack: fas
+        icon: presentation
+        icon_pack: custom
         text: Peek our upcoming events
         url: ../event/
     - title: PsyConnect Statistics Support Group
@@ -45,8 +45,21 @@ content:
         brightness: 0.5
         media: stats_avatar.jpg
       link:
-        icon: graduation-cap
-        icon_pack: fas
+        icon: link
+        icon_pack: custom
         text: Join Us
+        url: ../contact/
+    - title: Want to find out more or contribute in a greater capacity?
+      content: 'Get in touch with us!'
+      align: right
+      background:
+        position: center
+        color: '#333'
+        brightness: 0.5
+        media: email.jpg
+      link:
+        icon: email
+        icon_pack: custom
+        text: Contact Us
         url: ../contact/
 ---
