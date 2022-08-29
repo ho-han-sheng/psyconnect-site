@@ -32,7 +32,7 @@ content:
         brightness: 0.7
         media: zoom_stock.jpg
       link:
-        icon: presentation
+        icon: presentation.svg
         icon_pack: custom
         text: Peek our upcoming events
         url: ../event/
@@ -45,10 +45,10 @@ content:
         brightness: 0.5
         media: stats_avatar.jpg
       link:
-        icon: link
+        icon: link.svg
         icon_pack: custom
-        text: Join Us
-        url: ../contact/
+        text: Join our telegram channel
+        url: 'https://t.me/+FHOEbxCRYJw0ODU1'
     - title: Want to find out more or contribute in a greater capacity?
       content: 'Get in touch with us!'
       align: right
@@ -58,7 +58,7 @@ content:
         brightness: 0.5
         media: email.jpg
       link:
-        icon: email
+        icon: email.svg
         icon_pack: custom
         text: Contact Us
         url: ../contact/

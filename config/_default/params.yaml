@@ -15,7 +15,7 @@ appearance:
 
 marketing:
   seo:
-    site_type: Organization
+    site_type: EducationalOrganization
     local_business_type: ''
     org_name: 'PsyConnect'
     description: 'Student psychology interest group of Singapore University of Social Sciences.'
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {2022} PsyConnect.'
+    notice: '© 2022 PsyConnect.'
     license:
       enable: false
       allow_derivatives: false
