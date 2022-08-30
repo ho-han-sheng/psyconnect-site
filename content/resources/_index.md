@@ -1,6 +1,9 @@
 ---
 title: Resources
 
+# Active?
+active: false
+
 # Listing view
 view: citation
 
