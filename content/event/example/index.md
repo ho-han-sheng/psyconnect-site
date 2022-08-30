@@ -1,4 +1,6 @@
 ---
+active: false
+
 title: Example Event
 
 event: Wowchemy Conference
