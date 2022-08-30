@@ -4,7 +4,7 @@ avatar_filename: avatar.jpg
 social: []
 education:
   courses:
-    - course: BSc in Psychology
+    - course: Bachelor of Science in Psychology
       institution: Singapore University of Social Sciences
       year: 2024
 superuser: false

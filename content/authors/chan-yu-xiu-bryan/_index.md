@@ -1,19 +1,14 @@
 ---
 organizations: []
 superuser: false
-authors:
-  - 吳恩達
 title: Chan Yu Xiu Bryan
 role: ""
 bio: ""
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: ""
 social: []
 education:
   courses:
-    - course: BSc in Psychology
+    - course: Bachelor of Science (Hons.) in Psychology
       institution: Singapore University of Social Sciences
       year: 2022
 email: ""

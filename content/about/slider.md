@@ -21,7 +21,7 @@ content:
       background:
         position: right
         color: '#666'
-        brightness: 0.7
+        brightness: 0.5
         media: working.jpg
     - title: Events
       content: 'Attend talks, movie screenings and bond with your peers'
@@ -29,11 +29,11 @@ content:
       background:
         position: center
         color: '#555'
-        brightness: 0.7
+        brightness: 0.5
         media: zoom_stock.jpg
       link:
-        icon: presentation.svg
-        icon_pack: custom
+        icon: person-chalkboard
+        icon_pack: fas
         text: Peek our upcoming events
         url: ../event/
     - title: PsyConnect Statistics Support Group
@@ -45,8 +45,8 @@ content:
         brightness: 0.5
         media: stats_avatar.jpg
       link:
-        icon: link.svg
-        icon_pack: custom
+        icon: comments
+        icon_pack: fas
         text: Join our telegram channel
         url: 'https://t.me/+FHOEbxCRYJw0ODU1'
     - title: Want to find out more or contribute in a greater capacity?
@@ -58,8 +58,8 @@ content:
         brightness: 0.5
         media: email.jpg
       link:
-        icon: email.svg
-        icon_pack: custom
+        icon: envelope
+        icon_pack: fas
         text: Contact Us
         url: ../contact/
 ---

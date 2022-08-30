@@ -8,10 +8,10 @@ social: []
 organizations: []
 education:
   courses:
-    - course: BSc in Psychology
+    - course: Bachelor of Science in Psychology
       institution: Singapore University of Social Sciences
       year: 2024
-email: ""
+email: "hsho005@suss.edu.sg"
 superuser: true
 user_groups:
   - EXCO Members
