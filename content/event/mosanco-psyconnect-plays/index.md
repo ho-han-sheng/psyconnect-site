@@ -24,7 +24,8 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image: mosanco-img.jpg
+image:
+    focal_point: Smart
 
 url_code: ''
 url_pdf: ''
