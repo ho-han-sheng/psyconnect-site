@@ -24,7 +24,7 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-![](mosanco-img.jpg "")
+image: mosanco-img.jpg
 
 url_code: ''
 url_pdf: ''
