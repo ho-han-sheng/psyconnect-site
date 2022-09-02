@@ -4,7 +4,7 @@ widget_id: update title
 headless: true
 weight: 10
 title: PsyConnect
-hero_media: welcome.jpg
+hero_media: IMH.jpg
 design:
   columns: "1"
   css_style: null
